@@ -1,0 +1,30 @@
+[submodule "esfsm"]
+	path = esfsm
+	url = https://github.com/Palifra/esfsm.git
+[submodule "esfsm_stock"]
+	path = esfsm_stock
+	url = https://github.com/Palifra/esfsm_stock.git
+[submodule "esfsm_project"]
+	path = esfsm_project
+	url = https://github.com/Palifra/esfsm_project.git
+[submodule "esfsm_timesheet"]
+	path = esfsm_timesheet
+	url = https://github.com/Palifra/esfsm_timesheet.git
+[submodule "esfsm_report"]
+	path = esfsm_report
+	url = https://github.com/Palifra/esfsm_report.git
+[submodule "esfsm_fleet"]
+	path = esfsm_fleet
+	url = https://github.com/Palifra/esfsm_fleet.git
+[submodule "esfsm_gallery"]
+	path = esfsm_gallery
+	url = https://github.com/Palifra/esfsm_gallery.git
+[submodule "esfsm_api"]
+	path = esfsm_api
+	url = https://github.com/Palifra/esfsm_api.git
+[submodule "esfsm_dashboard"]
+	path = esfsm_dashboard
+	url = https://github.com/Palifra/esfsm_dashboard.git
+[submodule "esfsm_viber"]
+	path = esfsm_viber
+	url = https://github.com/Palifra/esfsm_viber.git
